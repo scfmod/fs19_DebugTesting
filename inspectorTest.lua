@@ -62,7 +62,7 @@ end
 
 local function setup()
     inspect('AnimalHusbandry', Input.KEY_1, AnimalHusbandry)
-    inspect('Vehicle', Input.KEY_1, AnimalHusbandry)
+    inspect('Vehicle', Input.KEY_1, Vehicle)
     inspect('g_farmManager.', Input.KEY_1, g_farmManager)
 end
 
